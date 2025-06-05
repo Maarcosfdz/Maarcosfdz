@@ -51,8 +51,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Estadísticas generales (gráfico de barras con estrellas, commits, etc.) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=unsimpledev&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-</p>
 
