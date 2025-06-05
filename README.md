@@ -1,7 +1,7 @@
 ## Hi, my name is Marcos 👋
-<h1 style="text-align:center;">Hi, my name is Marcos 👋</h1>
+<h2 style="text-align:center;">Hi, my name is Marcos 👋</h2>
 
-I'm a Computer Engineering student at the University of A Coruña (UDC), specializing in software. I'm particularly interested in software development, full-stack technologies, and business.
+<h4>I'm a Computer Engineering student at the University of A Coruña (UDC), specializing in software. I'm particularly interested in software development, full-stack technologies, and business.</h2>
 ---
 
 <h3 style="text-align:center;">My Skills</h3>
