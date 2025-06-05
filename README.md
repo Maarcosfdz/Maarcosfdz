@@ -1,9 +1,10 @@
 <h2 style="text-align:center;">Hi, my name is Marcos 👋</h2>
 
 <h4>I'm a Computer Engineering student at the University of A Coruña (UDC), specializing in software. I'm particularly interested in software development, full-stack technologies, and business.</h2>
----
+------------------------
 
 <h3 style="text-align:center;">My Skills</h3>
+---
 
 <!-- Languages -->
 <h4>Languages</h4>
@@ -35,7 +36,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,idea,clion&theme=light" />
 </p>
 
----
 
 
 
