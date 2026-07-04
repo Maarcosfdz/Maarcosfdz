@@ -9,7 +9,7 @@ ____________________________________________________________
 <!-- Languages -->
 <h4>Languages</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,py,go,c,cs,ocaml,elixir,erlang,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,go,c,cs,ocaml,elixir,html,css&theme=light" />
 </p>
 
 <!-- Frontend -->
